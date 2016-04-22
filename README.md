@@ -1,2 +1,5 @@
 # hello-world
-Repository Introduction
+
+hello peoples,
+
+My name is Daniel, im a newbie here ready to get started.
